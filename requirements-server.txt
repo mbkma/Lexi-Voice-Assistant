@@ -1,0 +1,4 @@
+# Server requirements - Heavy processing components
+vosk>=0.3.45
+piper-tts>=1.2.0
+llama-cpp-python>=0.2.0

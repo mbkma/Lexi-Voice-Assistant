@@ -1,0 +1,2 @@
+# Client requirements - Only audio I/O
+pyaudio>=0.2.13
